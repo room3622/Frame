@@ -1,0 +1,9 @@
+{
+    "require": {
+        "symfony/dotenv": "^4.4",
+        "rakit/validation": "^1.4",
+        "paypal/paypalhttp": "1.0.0"
+
+
+    }
+}
